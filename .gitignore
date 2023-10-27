@@ -1,1 +1,4 @@
 garbage_dataset
+__pycache__
+venv/
+.env
